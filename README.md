@@ -1,7 +1,10 @@
 # vswitcher-client-fixer
 
-**Platform:** Windows Only
-
+**Platform:** 
+ - Windows Only currently
+ - Mac will be uploaded later when I got time and turn it on, it is in shell and fish
+ - Linux: No answers....
+ 
 This batch file helps you run `vlauncher.jar` with **Java JDK 11**.
 
 ---
